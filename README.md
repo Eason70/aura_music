@@ -7,9 +7,9 @@
 
 AI Agent 驱动的 B站音频播放器。随时随地，想听就听，不止于音乐。
 
-![AuraMusic 主界面](docs/screenshots/pic_1.png)
+![AuraMusic 主界面](docs/screenshots/56af405f992b4edd29b283bd3be4ac69.png)
 
-![AuraMusic 云端搜索](docs/screenshots/pic_2.png)
+![AuraMusic 云端搜索](docs/screenshots/727f625b0a3296906741662f3cb19adf.png)
 
 ## Features
 
@@ -114,14 +114,6 @@ aura-player/
 | macOS | 完全支持 |
 | Linux | 完全支持 |
 | Windows | 需要 WSL（云端转换依赖 bash 命令） |
-
-## 赞赏
-
-如果这个项目对你有帮助，欢迎请作者喝杯咖啡 :)
-
-<p align="center">
-  <img src="docs/money_code.jpg" alt="赞赏码" width="300" />
-</p>
 
 ## License
 
